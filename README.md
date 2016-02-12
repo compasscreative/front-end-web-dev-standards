@@ -28,7 +28,7 @@ When if comes to CSS guidelines, we think Mr. Harry Roberts nailed it with his [
 - Double dash (--) for a modifier.
 
 
-### Example code SCSS
+### Example SCSS
 
     
     .block-name {
