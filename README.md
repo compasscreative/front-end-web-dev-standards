@@ -67,23 +67,23 @@ When if comes to CSS guidelines, we think Mr. Harry Roberts nailed it with his [
 - If you would like to use an external grid framework, feel free to add it, but keep html tags separated from the BEM tag structure. For instance:
 
 ```
-<div class=“row columns-12”>
-    <div class=“column span-4 offset-1”>
-        <aside class=“sidebar”>
-            <h2 class=“sidebar__heading”></h2>
-            <p class=“sidebar__paragraph”></p>
+<div class="row columns-12">
+    <div class="column span-4 offset-1">
+        <aside class="sidebar">
+            <h2 class="sidebar__heading"></h2>
+            <p class="sidebar__paragraph"></p>
         </aside>
     </div>
-    <div class=“column span-4”>
-        <article class=“blog-article”>
+    <div class="column span-4">
+        <article class="blog-article">
             <h2></h2>
             <p></p>
         </article>
     </div>
-    <div class=“column span-2”>
-        <div class=“callout-ad”>
-            <h2 class=“callout-ad__title”></h2>
-            <a href=“” class=“callout-ad__button”></a>
+    <div class="column span-2">
+        <div class="callout-ad">
+            <h2 class="callout-ad__title"></h2>
+            <a href="" class="callout-ad__button"></a>
         </div>
     </div>
 </div>
