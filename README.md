@@ -64,7 +64,7 @@ When if comes to CSS guidelines, we think Mr. Harry Roberts nailed it with his [
    
 
 ### Grid frameworks
-- If you would like to use an external grid framework, feel free to add it, but keep html tags separated from the BEM tag structure. For instance:
+If you would like to use an external grid framework, feel free to add it, but keep html tags separated from the BEM tag structure. For instance:
 
 ```
 <div class="row columns-12">
